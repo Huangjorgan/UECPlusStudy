@@ -1,0 +1,28 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.3",
+  "Category": "",
+  "Description": "",
+  "Modules": [
+    {
+      "Name": "Study_Module",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "MyRuntime",
+      "Type": "Runtime",
+      "LoadingPhase": "None"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "ModelingToolsEditorMode",
+      "Enabled": true
+    }
+  ],
+  "TargetPlatforms": [],
+  "AdditionalRootDirectories": [],
+  "AdditionalPluginDirectories": [],
+  "EpicSampleNameHash": ""
+}

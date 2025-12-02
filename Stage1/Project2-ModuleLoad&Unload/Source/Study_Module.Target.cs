@@ -1,0 +1,14 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+
+using UnrealBuildTool;
+
+public class Study_ModuleTarget : TargetRules
+{
+    public Study_ModuleTarget(TargetInfo Target) : base(Target)
+    {
+        Type = TargetType.Game;
+        DefaultBuildSettings = BuildSettingsVersion.V4;
+        IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3;
+        ExtraModuleNames.Add("Study_Module");
+    }
+}
