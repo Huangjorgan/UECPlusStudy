@@ -1,0 +1,17 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0.0",
+    "FriendlyName": "Menu System",
+    "Description": "C++ first, Blueprint-friendly reusable menu system.",
+    "Category": "Framework",
+    "CreatedBy": "HJorgan",
+    "CanContainContent": true,
+    "Modules": [
+        {
+            "Name": "MenuSystem",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}

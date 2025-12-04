@@ -1,9 +1,5 @@
 # 学习笔记 GamePlayFramework 2025/11/24
 
-## 功能笔记区
-**使用cmd生成工程文件**
-& "G:\0.GameEngine\Epic\Games\UE_5.3\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.exe" -projectfiles -project="D:\Files\UE\GamePlayFramework\GamePlayFramework.uproject" -game -engine
-
 
 ## 日计划工作区
 12/2 完成存档系统的底层构建 确认第一个游戏demo的题材与内容架构
